@@ -1,0 +1,19 @@
+#caixa1{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box; /*Propriedade define como a largura e altura sao calculadas*/
+}
+
+#caixa2{
+    width: 200px;
+    height: 200px;
+    border: 2px solid red;
+    border-radius: 50px 20px;
+    padding: 10px;
+    margin: 10px;
+    box-sizing: border-box;
+}
